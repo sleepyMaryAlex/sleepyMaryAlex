@@ -6,4 +6,4 @@
 :joy_cat: Meme Slider: https://sleepymaryalex.github.io/cssMemSlider/cssMemSlider/  
 :arrow_forward: Virtual Keyboard: https://sleepymaryalex.github.io/virtual-keyboard/  
 :dog2: Shelter: https://rolling-scopes-school.github.io/sleepymaryalex-JSFE2022Q1/shelter/pages/main/  
-:ocean: Wooden Boat: https://sleepymaryalex.github.io/wooden-boat/
+:ocean: CV: [:ocean: CV](https://sleepymaryalex.github.io/rsschool-cv/)
