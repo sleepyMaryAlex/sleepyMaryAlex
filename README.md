@@ -7,5 +7,5 @@
 :arrow_forward: Virtual Keyboard: https://sleepymaryalex.github.io/virtual-keyboard/  
 :dog2: Shelter: https://rolling-scopes-school.github.io/sleepymaryalex-JSFE2022Q1/shelter/pages/main/  
 :ocean: CV (stage 0): https://sleepymaryalex.github.io/rsschool-cv/  
-:book: CV (stage 1): https://sleepymaryalex.github.io/CV-stage-1/
+:book: CV (stage 1): https://sleepymaryalex.github.io/CV-stage-1/  
 :joy_cat: News Portal: https://rolling-scopes-school.github.io/sleepymaryalex-JSFE2022Q1/migration-to-ts/
