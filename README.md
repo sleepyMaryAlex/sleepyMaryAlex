@@ -10,5 +10,5 @@
 :book: CV (stage 1): https://sleepymaryalex.github.io/CV-stage-1/  
 :joy_cat: News Portal (migration to TypeScript): https://rolling-scopes-school.github.io/sleepymaryalex-JSFE2022Q1/migration-to-ts/  
 :book: RS Lang (teamwork): https://rslang-vanya1000.netlify.app/  
-:relaxed: Online Store: https://rolling-scopes-school.github.io/sleepymaryalex-JSFE2022Q1/online-store/
+:relaxed: Online Store: https://rolling-scopes-school.github.io/sleepymaryalex-JSFE2022Q1/online-store/  
 :book: Spoonacular: https://rolling-scopes-school.github.io/sleepymaryalex-REACT2022Q3/react-forms/#/
