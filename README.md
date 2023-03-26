@@ -12,4 +12,5 @@
 :book: RS Lang (teamwork): https://rslang-vanya1000.netlify.app/  
 :handbag: Online Store: https://rolling-scopes-school.github.io/sleepymaryalex-JSFE2022Q1/online-store/  
 :pizza: Spoonacular: https://rolling-scopes-school.github.io/sleepymaryalex-REACT2022Q3/react-forms/#/  
-:neckbeard: Rick and Morty: https://rolling-scopes-school.github.io/sleepymaryalex-REACT2022Q3/react-redux/#/
+:neckbeard: Rick and Morty: https://rolling-scopes-school.github.io/sleepymaryalex-REACT2022Q3/react-redux/#/  
+:car: Async Race: https://rolling-scopes-school.github.io/sleepymaryalex-JSFE2022Q1/async-race/
